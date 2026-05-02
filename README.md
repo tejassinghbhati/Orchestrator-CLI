@@ -2,7 +2,7 @@
 
 > **Architectural Precursor to the OpenClaw Framework**
 
-Orchestrator CLI is a purpose-built, high-performance command-line task manager. While functionally a standalone utility for managing local tasks, structurally it serves as the foundational proving ground for **OpenClaw**—a robust, agentic orchestration framework currently in development.
+Orchestrator CLI is a project that I have built to lay down the foundations of building a high performance agentic system. It is a command-line task manager. While functionally a standalone utility for managing local tasks, structurally it serves as the foundational proving ground for **OpenClaw**—a robust, agentic orchestration framework currently in development. 
 
 ## Research Context & Objectives
 
